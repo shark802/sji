@@ -1,1 +1,1 @@
-<?php include header("Location:http://139.177.190.17/sjitime/m/user/"); ?>
+<?php include header("Location:http://172.104.63.36/sjitime/m/user/"); ?>
